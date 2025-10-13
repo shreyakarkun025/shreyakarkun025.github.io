@@ -122,7 +122,7 @@ export default function PaperCard({ p }: PaperCardProps) {
             target="_blank"
             rel="noopener noreferrer"
           >
-            DOI <ExternalLink className="w-4 h-4" />
+            {p.links.doi.includes('doi.org') ? 'DOI' : 'View Paper'} <ExternalLink className="w-4 h-4" />
           </a>
         )}
       </div>

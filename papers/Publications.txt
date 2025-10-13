@@ -1,0 +1,15 @@
+Publications:
+
+1. A real-time MRI study on asymmetry in velum dynamics during VCV
+production with nasal sounds - https://www.isca-archive.org/interspeech_2025/sharma25b_interspeech.html
+
+2. Implementation of Ripple Carry Adder and Carry Save Adder using 7nm FinFET Technology- https://wseas.com/journals/articles.php?id=9109
+
+3. Development of In-Memory Wallace Tree Architecture using Block RAM - https://discovery.researcher.life/article/development-of-in-memory-wallace-tree-architecture-using-block-ram/fbb42c6b05f4389c91f78c7d82eaf570
+
+4. A Study on Quantification of the Extent of Co-articulation in a 
+VCV Sequence - Journal of Electrical and Electronic Engineering(accepted in)
+
+Poster:
+5. Inter-subject variation in tongue shape during vowel production in /b/V/t/
+ sequence: An rtMRI study using 8 vowels from 74 subjects - https://issp24.sciencesconf.org/data/pages/ISSP2024_Book_of_Abstracts_1.pdf

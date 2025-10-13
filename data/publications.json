@@ -15,7 +15,7 @@
     "pdf": "/papers/interspeech2025.pdf",
     "poster": "/posters/interspeech2025_poster.pdf",
     "links": {
-      "doi": "",
+      "doi": "https://www.isca-archive.org/interspeech_2025/sharma25b_interspeech.html",
       "slides": "",
       "video": ""
     },
@@ -32,5 +32,101 @@
     "keywords": ["real-time MRI", "velum dynamics", "VCV sequences", "articulatory asymmetry", "speech production"],
     "funding": "SPIRE Lab, IISc",
     "featured": true
+  },
+  {
+    "id": "finfet2024",
+    "title": "Implementation of Ripple Carry Adder and Carry Save Adder using 7nm FinFET Technology",
+    "authors": [
+      "Shreya Karkun"
+    ],
+    "venue": "WSEAS",
+    "year": 2024,
+    "abstract": "This paper presents the implementation and analysis of Ripple Carry Adder and Carry Save Adder using 7nm FinFET technology, exploring the performance characteristics and efficiency of these arithmetic circuits in advanced semiconductor processes.",
+    "links": {
+      "doi": "https://wseas.com/journals/articles.php?id=9109",
+      "slides": "",
+      "video": ""
+    },
+    "tags": [
+      "FinFET",
+      "Digital Design",
+      "Arithmetic Circuits",
+      "VLSI",
+      "7nm Technology"
+    ],
+    "keywords": ["FinFET", "Ripple Carry Adder", "Carry Save Adder", "7nm technology", "VLSI design"],
+    "featured": false
+  },
+  {
+    "id": "wallace-tree2024",
+    "title": "Development of In-Memory Wallace Tree Architecture using Block RAM",
+    "authors": [
+      "Shreya Karkun"
+    ],
+    "venue": "Research Article",
+    "year": 2024,
+    "abstract": "This research presents the development of an in-memory Wallace Tree architecture utilizing Block RAM, exploring novel approaches to arithmetic computation within memory structures for improved performance and efficiency.",
+    "links": {
+      "doi": "https://discovery.researcher.life/article/development-of-in-memory-wallace-tree-architecture-using-block-ram/fbb42c6b05f4389c91f78c7d82eaf570",
+      "slides": "",
+      "video": ""
+    },
+    "tags": [
+      "In-Memory Computing",
+      "Wallace Tree",
+      "Block RAM",
+      "Computer Architecture",
+      "Arithmetic Units"
+    ],
+    "keywords": ["in-memory computing", "Wallace Tree", "Block RAM", "computer architecture", "arithmetic"],
+    "featured": false
+  },
+  {
+    "id": "coarticulation2024",
+    "title": "A Study on Quantification of the Extent of Co-articulation in a VCV Sequence",
+    "authors": [
+      "Shreya Karkun"
+    ],
+    "venue": "Journal of Electrical and Electronic Engineering",
+    "year": 2024,
+    "abstract": "This study investigates the quantification of co-articulation effects in VCV (Vowel-Consonant-Vowel) sequences, providing insights into the articulatory dynamics and phonetic interactions in speech production.",
+    "links": {
+      "doi": "",
+      "slides": "",
+      "video": ""
+    },
+    "tags": [
+      "Co-articulation",
+      "Speech Analysis",
+      "VCV Sequences",
+      "Phonetics",
+      "Speech Production"
+    ],
+    "keywords": ["co-articulation", "VCV sequences", "speech analysis", "phonetics", "articulatory dynamics"],
+    "featured": false
+  },
+  {
+    "id": "issp2024-poster",
+    "title": "Inter-subject variation in tongue shape during vowel production in /b/V/t/ sequence: An rtMRI study using 8 vowels from 74 subjects",
+    "authors": [
+      "Shreya Karkun"
+    ],
+    "venue": "ISSP 2024",
+    "year": 2024,
+    "abstract": "This poster presents findings from a real-time MRI study examining inter-subject variation in tongue shape during vowel production in /b/V/t/ sequences, analyzing data from 8 vowels across 74 subjects to understand articulatory variability.",
+    "links": {
+      "doi": "https://issp24.sciencesconf.org/data/pages/ISSP2024_Book_of_Abstracts_1.pdf",
+      "slides": "",
+      "video": ""
+    },
+    "tags": [
+      "rtMRI",
+      "Tongue Shape",
+      "Vowel Production",
+      "Inter-subject Variation",
+      "Speech Production"
+    ],
+    "keywords": ["real-time MRI", "tongue shape", "vowel production", "inter-subject variation", "articulatory phonetics"],
+    "featured": false
   }
 ]
